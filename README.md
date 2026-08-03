@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Dev Kukreja! </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dev+Kukreja!;AI%2FML+%26+Robotics+Intern+%40+NTT+Data;Building+Agentic+AI+%26+Scalable+Backends" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <em>Final year Comp Sci student at RNSIT, Bengaluru | AI/ML & Robotics Intern @ NTT Data</em><br/>
@@ -67,6 +69,13 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Devv-262/Devv-262/output/github-snake-dark.svg" alt="github contribution snake" />
 </p>
 
 ---
