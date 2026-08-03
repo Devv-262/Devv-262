@@ -61,20 +61,6 @@
 
 ---
 
-### 📈 GitHub & LeetCode Analytics
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/DevK139?theme=radical&font=baloo" alt="DevK139 LeetCode Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devv-262&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devv-262&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
