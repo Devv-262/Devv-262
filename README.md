@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dev Kukreja! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <em>Final year Comp Sci student at RNSIT, Bengaluru | AI/ML & Robotics Intern @ NTT Data | Open Source Contributor</em><br/>
+  <em>Final year Comp Sci student at RNSIT, Bengaluru | AI/ML & Robotics Intern @ NTT Data</em><br/>
   <strong>Exploring Agentic AI, Distributed Systems, and Building Scalable Backend Architectures.</strong>
 </p>
 
