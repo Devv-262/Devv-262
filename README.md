@@ -73,6 +73,13 @@
 
 ---
 
+### 📊 LeetCode Activity
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DevK139?theme=dark&ext=activity" alt="DevK139 LeetCode Activity" />
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Devv-262/Devv-262/output/github-snake-dark.svg" alt="github contribution snake" />
