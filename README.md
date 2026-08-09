@@ -73,9 +73,9 @@
 
 ---
 
-### 📊 LeetCode Activity
+### 🧊 3D Contribution Graph
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/DevK139?theme=dark&ext=activity" alt="DevK139 LeetCode Activity" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D github contribution graph" />
 </p>
 
 ---
@@ -83,6 +83,13 @@
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Devv-262/Devv-262/output/github-snake-dark.svg" alt="github contribution snake" />
+</p>
+
+---
+
+### 📊 LeetCode Activity
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DevK139?theme=dark&ext=activity" alt="DevK139 LeetCode Activity" />
 </p>
 
 ---
